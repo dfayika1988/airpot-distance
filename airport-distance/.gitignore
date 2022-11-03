@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_site/*
+.DS_Store
+*.log
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.env
+code/python_foundation/output
+docs/code/python_foundation/output
+__pycache__
+
